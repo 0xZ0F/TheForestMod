@@ -14,5 +14,5 @@ Movement Hacks (Faster run, higher jump height)
 6. Inject.
 
 ### TODO:
-*More cheats - In progress.
-*Custom injector - In progress.
+* More cheats - In progress.
+* Custom injector - In progress.
