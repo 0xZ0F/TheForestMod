@@ -27,9 +27,8 @@ namespace TheForestMod
             // MOVEMENT HACK
             if (Manager.enabled_MovementHack)
             {
-                __instance.runSpeed = 50f;
-                __instance.jumpHeight = 100f;
-                __instance.swimmingSpeed = 20f;
+                __instance.runSpeed *= 2f;
+                __instance.swimmingSpeed *= 2f;
             }
         }
     }
