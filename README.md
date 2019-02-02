@@ -4,8 +4,8 @@
 * Press F7 to open GUI.
 
 * For Keybinds:
-- Toggle God Mode: RightAlt + Numpad1
-- Toggle Movement Hacks: RightAlt + Numpad0
+  - Toggle God Mode: RightAlt + Numpad1
+  - Toggle Movement Hacks: RightAlt + Numpad0
 
 ### Features:
 * God Mode (Infinite stamina, health, etc.)
