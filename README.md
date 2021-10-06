@@ -1,4 +1,4 @@
-# TheForestMod - By Z0F/kgoforth
+# Simple Harmony mod/hack for The Forest.
 
 ## How To Use:
 * Press F7 to open GUI.
